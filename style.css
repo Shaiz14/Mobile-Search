@@ -1,0 +1,40 @@
+.navbar {background: #403C78;
+    height: 70px;}
+    
+    .navbar-brand {
+        color: #fff !important;
+        font-weight: bold;
+    
+    }
+    .btn-primary {
+        color: #403C78;
+        background-color:#fff;
+    }
+
+.logo{
+    height:50px;
+    width: 50px;
+}
+.form-select{
+    width: 250px;
+}
+.btn{
+    color:#403C78;
+    background-color:  #f2f2f3 ;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.mob{
+    height: 180px;
+    width: 180px;
+    object-fit: contain;
+    margin: 0px auto;
+}
+.card{
+    width: 200px !important;
+    text-align: center;
+    margin:30px;
+    padding:5px;
+}
